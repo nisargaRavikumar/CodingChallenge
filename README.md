@@ -19,4 +19,4 @@ word.txt is text file which has the list of words
 ### Method 2
 
 1.Install Anaconda and Launch Jupyter labs.
-2.Open pipeline.ipynb and run the file
+2.Open pipeline.ipynb and run the file.

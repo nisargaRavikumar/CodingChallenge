@@ -8,7 +8,7 @@ url.txt is text file which has the list of urls
 
 word.txt is text file which has the list of words
 
-##Direction to run the code.
+## Direction to run the code.
 
 1. Place pipeline.py, url.txt ,word.txt in one directory.
 2. open cmd prompt for the same directory

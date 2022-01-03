@@ -16,8 +16,8 @@ nltk.download('stopwords')
 
 stop_words = set(stopwords.words('english'))
 
-urls_text_file_path = r"E:\noknok\urls.txt"
-test_words_file_path = r"E:\noknok\words.txt"
+urls_text_file_path = "urls.txt"
+test_words_file_path = "words.txt"
 
 f_ptr_url = open(urls_text_file_path,"r")
 w_ptr_url = open(test_words_file_path,"r")
